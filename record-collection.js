@@ -66,7 +66,7 @@ let collection = [
 
     const updateRecord = () => {
         collection.title = "You are the reason"; 
-            alert(`${collection.title}`);  
+            alert(`${collection.title}`);
     }
 
     const deletedRecord = () => {
